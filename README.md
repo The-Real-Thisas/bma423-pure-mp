@@ -1,4 +1,4 @@
-This is a work in progress BMP423 accelerometer driver written in MicroPython.
+This is a work in progress BMA423 accelerometer driver written in MicroPython.
 The aim of this project is to explore the capabilities of the device, including
 what is normally not available in simpler drivers: the feature engine especially
 for step detection.
